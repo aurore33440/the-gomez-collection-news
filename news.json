@@ -2,3 +2,60 @@
   "version": 1,
   "entries": []
 }
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "2026-09-24-rare-beauty-fast-company",
+      "date": "2026-09-24",
+      "title": "Selena discusses Rare Beauty’s mission with Fast Company",
+      "category": "Rare Beauty",
+      "summary": "Selena Gomez and Elyse Cohen discuss the brand’s growth and its work to expand access to youth mental health support.",
+      "type": "Video",
+      "source": {
+        "name": "Fast Company",
+        "url": "https://www.fastcompany.com/video/purpose-that-performs-inside-the-rare-beauty-blueprint/70IE46vT"
+      },
+      "verifiedAt": "2026-09-28"
+    },
+    {
+      "id": "2026-09-14-emmy-awards",
+      "date": "2026-09-14",
+      "title": "Selena attends the 2026 Emmy Awards",
+      "category": "Event",
+      "summary": "Selena Gomez appears on the Emmy Awards red carpet in Louis Vuitton, as Only Murders in the Building competes for best comedy series.",
+      "type": "Article",
+      "source": {
+        "name": "Vogue",
+        "url": "https://www.vogue.com/article/selena-gomez-emmys-2026-09-14"
+      },
+      "verifiedAt": "2026-09-28"
+    },
+    {
+      "id": "2026-08-25-only-murders-season-six",
+      "date": "2026-08-25",
+      "title": "Only Murders season six gets a December premiere date",
+      "category": "Film & TV",
+      "summary": "Disney+ UK announces a December 8 premiere for the London-set sixth season, with Selena Gomez returning alongside Steve Martin and Martin Short.",
+      "type": "Announcement",
+      "source": {
+        "name": "Disney+ UK Press",
+        "url": "https://press.disney.co.uk/news/emmy-award-winning-comedy-series-only-murders-in-the-building-returns-for-season-six-on-december-8th-on-disneyplus-"
+      },
+      "verifiedAt": "2026-09-28"
+    },
+    {
+      "id": "2026-07-31-te-olvido",
+      "date": "2026-07-31",
+      "title": "Selena joins benny blanco and Becky G on “Te Olvido (La La)”",
+      "category": "Music",
+      "summary": "The collaboration arrives with a music video, combining cumbia and pop as part of benny blanco’s Hermoso project.",
+      "type": "Release",
+      "source": {
+        "name": "Universal Music Canada",
+        "url": "https://www.universalmusic.ca/2026/07/31/benny-blanco-enlists-selena-gomez-and-becky-g-for-the-cumbia-charged-world-of-te-olvido-la-la/"
+      },
+      "verifiedAt": "2026-09-28"
+    }
+  ]
+}
